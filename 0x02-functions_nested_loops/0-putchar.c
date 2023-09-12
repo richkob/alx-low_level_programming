@@ -1,9 +1,12 @@
+
 #include "main.h"
+
 /**
- * main - Entry point
- *Return: 0
+ * main - function
+ * Return: 0
  */
-int min(void)
+
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -15,4 +18,6 @@ int min(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
+
 }
+
